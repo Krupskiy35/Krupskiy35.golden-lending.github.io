@@ -1,4 +1,4 @@
-# Krupskiy35.golden-lending.github.io
+# https://krupskiy35.github.io/Krupskiy35.golden-lending.github.io/
 
 Author: Krupskiy Andrey<br>
 
